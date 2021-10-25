@@ -16,8 +16,6 @@ cd /le/dossier/de/movenet
 python3 -m venv mon_env
 # Activation
 source mon_env/bin/activate
-# Installation des packages, numpy, opencv-python, pyrealsense2, kivy
+# Installation des packages numpy, opencv, tensorflow
 python3 -m pip install -r requirements.txt
 ```
-
-installer tous les paquets intel avx
